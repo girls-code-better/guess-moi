@@ -1,0 +1,12 @@
+{
+  "name": "guess_moi",
+  "version": "1.0.0",
+  "description": "Guess the number hehe",
+  "main": "index.js",
+  "author": "Divy Srivastava",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
